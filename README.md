@@ -9,7 +9,7 @@
 
 ## Link manual book
 
-Manual Book : [Lihat Dokumen]()
+Manual Book : [Lihat Dokumen](https://drive.google.com/drive/folders/1HHJFFWQyxj7XQdZf2-QjVFgUxY1ek934)
 
 ## Setelah Cloning (Setup Project)
 **Jalankan perintah ini di terminal folder project ini di cloning :**
